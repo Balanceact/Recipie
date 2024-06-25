@@ -36,6 +36,7 @@ main {
     background-color: rgba(18, 176, 182, 0.589);
     max-width: 70%;
     margin-left: 15%;
+    padding-bottom: 20px;
 }
 
 header {
@@ -47,4 +48,10 @@ header {
 footer {
     padding-top: 15px;
     padding-bottom: 15px;
+}
+
+hr {
+    width: 60%;
+    margin-top: 0px;
+    border-color: black;
 }
