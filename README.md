@@ -22,4 +22,4 @@ When you create the recipe, it is important that the recipe is easy to follow an
 
 - A footer tag where you list some contact information for yourself _( may be made up information )_. Maybe there's a restaurant or pastry shop out there that wants to hire you because your recipe looks so yummy!
 
-- CSS! _( Wait for this one until after CSS round )_ Styling is important and should be included, and it should be proper. Tip is to style your recipe page according to your recipe, i.e. use as a team that the dish goes in, colors and so on.
+- CSS! _( Wait for this one until after CSS round )_ Styling is important and should be included, and it should be proper. Tip is to style your recipe page according to your recipe, i.e. use as a theme that the dish goes in, colors and so on.
